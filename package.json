@@ -1,0 +1,23 @@
+{
+  "name": "etsy-navbar-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulSoonMinChoi/Etsy-NavBar-Proxy.git"
+  },
+  "author": "Paul Choi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulSoonMinChoi/Etsy-NavBar-Proxy/issues"
+  },
+  "homepage": "https://github.com/PaulSoonMinChoi/Etsy-NavBar-Proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.5"
+  }
+}
